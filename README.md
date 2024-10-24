@@ -1,4 +1,5 @@
 # The-Cozy-Cup-Coffee-House-Analysis
+![logo](https://github.com/user-attachments/assets/40f1bf3d-6fc4-48f4-85a7-5ff5533ff182)
 
 ## Project Overview
 This project focuses on analyzing six months of transaction data (January to June) for **The Cozy Cup Coffee House**. The goal is to identify key sales trends, customer behavior patterns, and product performance insights to drive operational improvements and optimize marketing strategies.
@@ -30,11 +31,6 @@ This project focuses on analyzing six months of transaction data (January to Jun
 ## Tools Used
 - **Excel**: Data cleaning, revenue summaries, and PivotTables for revenue analysis.
 - **Tableau**: Visualizations for trend analysis, including revenue trends, peak hours, and location-specific sales performance.
-
-## Project Structure
-- `data/`: Contains raw and cleaned data files used for analysis (Excel format).
-- `tableau/`: Tableau workbooks and dashboards showcasing visualized insights.
-- `report/`: Final report summarizing the analysis, key findings, and recommendations (PDF or Excel).
 
 ## How to Use This Repository
 1. **Download Data**: Access the raw and processed data in the `data/` folder.
